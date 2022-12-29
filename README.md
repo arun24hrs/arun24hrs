@@ -1,5 +1,6 @@
-![Header](https://cdn.pixabay.com/photo/2017/12/22/05/01/winter-3033001__480.jpg)
+
 <h1 align="center">👋 Hi, I'm Arun Kumar Rana</h1>
+<img src = "https://drive.google.com/file/d/1TwKK6nDW7EkydFMwtkJQhD2xIqz44Q5h/view?usp=share_link" align="center"/>
 <h3 align="left">An Aspiring Full-Stack Web Developer...</h3>
 
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif" align="right"/>
