@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Arun Kumar Rana</h1>
-<img src = "https://drive.google.com/file/d/1TwKK6nDW7EkydFMwtkJQhD2xIqz44Q5h/view?usp=share_link" align="center"/>
+<img src = "https://github.com/arun24hrs/arun24hrs/blob/main/Github%20Banner-Low.jpg" width="1080px" height = "480px" align="center"/>
 <h3 align="left">An Aspiring Full-Stack Web Developer...</h3>
 
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif" align="right"/>
@@ -12,6 +12,11 @@
 - 💬 Ask me about **JavaScript, React and Redux**
 
 - 📫 You can connect with me through **2017arun.rana@gmail.com**
+
+<br/>
+<br/>
+<h3>More about me:</h3>
+<p>I am an aspiring full stack web developer. I am always curious to passionate to learn new things. Right now, I am pursuing an online course on Full-Stack Web Development from Masai School. Moreover, I am a person with a love for creative work. I recently fell in love with travelling and exploring the beauty of nature. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
