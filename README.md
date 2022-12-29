@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, React and Redux**
 
-- 📫 You can reach me on... **2017arun.rana@gmail.com**
+- 📫 You can connect with me through **2017arun.rana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
