@@ -13,6 +13,10 @@
 
 - 📫 You can connect with me through **2017arun.rana@gmail.com**
 
+- 💁🏽‍♂️ Checkout my Portfolio here: **<a href= "https://arun24hrs.github.io/">PORTFOLIO</a>**
+
+- ℹ️ Connect with me on:  **<a href = "https://www.linkedin.com/in/arun-kr-rana/">LinkedIn</a>**
+
 <br/>
 <br/>
 <h3>More about me:</h3>
