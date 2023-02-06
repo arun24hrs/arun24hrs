@@ -36,6 +36,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+ <img src = "https://camo.githubusercontent.com/c55a5fc9aee6efafa01a33c78502d5b075fc9071df09f7c36bd59665de0ebbd4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" alt="next.js" width="60" height="60"/>
+ <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="chakraUI" width="60" height="60" />
 </p>
 <br/>
 <br/>
