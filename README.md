@@ -47,7 +47,7 @@
   Visitor count
     <br/>
     <br/>
-  <img src="https://profile-counter.glitch.me/surajahirwar/count.svg" />
+  <img src="https://profile-counter.glitch.me/arun24hrs/count.svg" />
  </h3>
  <br />
 <a href="https://google.com" text-align="center" >
