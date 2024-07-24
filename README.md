@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <h3>More about me:</h3>
-<p>I am an aspiring full stack web developer. I am always curious to passionate to learn new things. Right now, I am pursuing an online course on Full-Stack Web Development from Masai School. Moreover, I am a person with a love for creative work. I recently fell in love with travelling and exploring the beauty of nature. </p>
+<p>I am an aspiring full stack web developer. I am always curious and passionate to learn new things. Right now, I am pursuing an online course on Full-Stack Web Development from Masai School. Moreover, I am a person with a love for creative work. I recently fell in love with travelling and exploring the beauty of nature. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
